@@ -1,0 +1,27 @@
+_repo: The-deformities-of-the-fingers-and-toes_70298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, William
+    gutenberg_agent_id: '44176'
+    url: http://www.gutenberg.org/2009/agents/44176
+description: ''
+gutenberg_issued: '2023-03-15'
+identifiers:
+  gutenberg: '70298'
+language: en
+pgterms:marc904: https://archive.org/details/deformitiesoffin00ande/page/n5/mode/2up
+pgterms:marc905: 20210228184153andersonfr
+pgterms:marc906: '1897'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bJ. & A. Churchill, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The deformities of the fingers and toes
+url: http://www.gutenberg.org/ebooks/70298
