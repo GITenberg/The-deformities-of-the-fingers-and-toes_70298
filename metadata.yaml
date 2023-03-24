@@ -1,11 +1,16 @@
 _repo: The-deformities-of-the-fingers-and-toes_70298
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70298-h/images/cover.jpg
 creator:
   author:
     agent_name: Anderson, William
     gutenberg_agent_id: '44176'
     url: http://www.gutenberg.org/2009/agents/44176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70298#The-deformities-of-the-fingers-and-toes
 gutenberg_issued: '2023-03-15'
 identifiers:
   gutenberg: '70298'
